@@ -29,4 +29,4 @@ python turtle-racing.py
 ```
 ## Output
 
-![Turtle Race Output](turtle-race-output.gif)
+![Turtle Race Output](Turtle race output.mp4)
